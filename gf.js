@@ -1,5 +1,5 @@
   
-  /* let js="amazing";
+  let js="amazing";
 console.log (js);
 
 const age=15;
