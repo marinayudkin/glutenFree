@@ -456,6 +456,6 @@ console.log (`Koalas wins Dolphins ${averageKoalas}vs ${averageDolphins}`);
 }
 calcWinner (averageDolphins,averageKoalas);
 
-const friends = [ 'Yael','Tova','Elit'];
+const friends = [ 'Yael','Galit','Elit'];
 
-console.log (friends.indexOf('Tova'));
+console.log (friends.indexOf('Galit'));
